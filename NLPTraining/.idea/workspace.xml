@@ -11,37 +11,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="run.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/News_Extraction/run.py">
+      <file leaf-file-name="LR_model.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson11/LR_model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="24" column="52" lean-forward="true" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+            <state relative-caret-position="162">
+              <caret line="105" column="15" lean-forward="true" selection-start-line="105" selection-start-column="15" selection-end-line="105" selection-end-column="15" />
               <folding>
-                <element signature="e#1#60#0" expanded="true" />
+                <element signature="e#1#20#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ltp_tool.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/News_Extraction/ltp_tool.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="124" column="20" lean-forward="false" selection-start-line="124" selection-start-column="8" selection-end-line="124" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="speech_extract.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project01/reference_code/speech_extract.py">
+      <file leaf-file-name="svm_model.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson11/svm_model.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="180" column="4" lean-forward="true" selection-start-line="180" selection-start-column="4" selection-end-line="180" selection-end-column="53" />
+              <caret line="109" column="0" lean-forward="true" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
               <folding>
-                <element signature="e#218#234#0" expanded="true" />
+                <element signature="e#1#20#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,12 +93,23 @@
         <option value="$PROJECT_DIR$/project01/creat_words.py" />
         <option value="$PROJECT_DIR$/News_Extraction/ltp_tool.py" />
         <option value="$PROJECT_DIR$/News_Extraction/run.py" />
+        <option value="$PROJECT_DIR$/lesson11/trans_index.py" />
+        <option value="$PROJECT_DIR$/lesson11/build_word2vec.py" />
+        <option value="$PROJECT_DIR$/lesson11/buidl_index.py" />
+        <option value="$PROJECT_DIR$/lesson11/trans_words_txt.py" />
+        <option value="$PROJECT_DIR$/lesson11/stopwords.txt" />
+        <option value="$PROJECT_DIR$/lesson11/build_corpus.py" />
+        <option value="$PROJECT_DIR$/lesson11/build_index.py" />
+        <option value="$PROJECT_DIR$/lesson11/validated_index_csv.py" />
+        <option value="$PROJECT_DIR$/lesson11/LR.py" />
+        <option value="$PROJECT_DIR$/lesson11/LR_model.py" />
+        <option value="$PROJECT_DIR$/lesson11/svm_model.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="419" />
-    <option name="y" value="48" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="270" />
+    <option name="y" value="26" />
     <option name="width" value="1630" />
     <option name="height" value="980" />
   </component>
@@ -140,18 +139,12 @@
             <path>
               <item name="NLPTraining" type="b2602c69:ProjectViewProjectNode" />
               <item name="NLPTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NLPTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NLPTraining" type="462c0819:PsiDirectoryNode" />
               <item name="News_Extraction" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NLPTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NLPTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="project01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NLPTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NLPTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="project01" type="462c0819:PsiDirectoryNode" />
-              <item name="reference_code" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -162,7 +155,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../AAD - 副本" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -184,17 +177,17 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Eclipse_workplace\Training\NLPTraining\project01\corpus" />
-      <recent name="D:\Eclipse_workplace\NLPTraining\project01\wiki_model" />
-      <recent name="D:\Eclipse_workplace\NLPTraining\project01\corpus" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Eclipse_workplace\Training\NLPTraining\lesson11" />
       <recent name="D:\Eclipse_workplace\NLPTraining\lesson3" />
       <recent name="D:\Eclipse_workplace\NLPTraining\project02" />
       <recent name="D:\Eclipse_workplace\NLPTraining\project01\reference_code" />
       <recent name="D:\Eclipse_workplace\NLPTraining\project01" />
-      <recent name="D:\Eclipse_workplace\NLPTraining\project01\new_model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Eclipse_workplace\Training\NLPTraining\project01\corpus" />
+      <recent name="D:\Eclipse_workplace\NLPTraining\project01\wiki_model" />
+      <recent name="D:\Eclipse_workplace\NLPTraining\project01\corpus" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -209,106 +202,106 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run">
-    <configuration name="add_corpus_for_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.svm_model">
+    <configuration name="LR_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project01/corpus" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="NLPTraining" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project01/corpus/add_corpus_for_model.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson11/LR_model.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="creat_words" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="build_index" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="NLPTraining" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project01/creat_words.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson11/build_index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="get_related_words" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="svm_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/News_Extraction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="NLPTraining" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/News_Extraction/get_related_words.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson11/svm_model.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="trans_words_txt" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/News_Extraction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="NLPTraining" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/News_Extraction/run.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson11/trans_words_txt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="test_get_subway_info" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="validated_index_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/chengdu_subway" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="NLPTraining" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/chengdu_subway/test_get_subway_info.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson11/validated_index_csv.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.test_get_subway_info" />
-      <item index="1" class="java.lang.String" itemvalue="Python.add_corpus_for_model" />
-      <item index="2" class="java.lang.String" itemvalue="Python.get_related_words" />
-      <item index="3" class="java.lang.String" itemvalue="Python.creat_words" />
-      <item index="4" class="java.lang.String" itemvalue="Python.run" />
+      <item index="0" class="java.lang.String" itemvalue="Python.build_index" />
+      <item index="1" class="java.lang.String" itemvalue="Python.trans_words_txt" />
+      <item index="2" class="java.lang.String" itemvalue="Python.validated_index_csv" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LR_model" />
+      <item index="4" class="java.lang.String" itemvalue="Python.svm_model" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.run" />
-        <item index="1" class="java.lang.String" itemvalue="Python.creat_words" />
-        <item index="2" class="java.lang.String" itemvalue="Python.get_related_words" />
-        <item index="3" class="java.lang.String" itemvalue="Python.add_corpus_for_model" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test_get_subway_info" />
+        <item index="0" class="java.lang.String" itemvalue="Python.svm_model" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LR_model" />
+        <item index="2" class="java.lang.String" itemvalue="Python.validated_index_csv" />
+        <item index="3" class="java.lang.String" itemvalue="Python.build_index" />
+        <item index="4" class="java.lang.String" itemvalue="Python.trans_words_txt" />
       </list>
     </recent_temporary>
   </component>
@@ -326,14 +319,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <frame x="270" y="26" width="1630" height="980" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18790497" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23311688" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26576018" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41365463" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -359,77 +353,11 @@
           <line>14</line>
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/project01/key_words.py" />
-    <entry file="file://$PROJECT_DIR$/project01/all_cut_words.txt" />
-    <entry file="file://$PROJECT_DIR$/lesson1/session.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="999">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson7/web_page_rank_refernce.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project01/corpus/WikiExtractor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37399">
-          <caret line="3235" column="0" lean-forward="false" selection-start-line="3235" selection-start-column="0" selection-end-line="3235" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project01/corpus/build_vector_by_news.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1728">
-          <caret line="64" column="21" lean-forward="false" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/dfs_bfs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/test_keras.py" />
-    <entry file="file://$PROJECT_DIR$/lesson1/num1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project01/model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="41" column="14" lean-forward="false" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/linecache.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson7/based_social_network_PR.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="26" column="32" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson7/build_tfidf.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2214">
@@ -441,13 +369,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="13" column="43" lean-forward="false" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project01/corpus/build_vector_bywiki.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -561,9 +482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1026">
           <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding>
-            <element signature="e#2#11#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -592,19 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
           <caret line="76" column="17" lean-forward="false" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#9#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/News_Extraction/get_related_words.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="25" column="40" lean-forward="true" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
-          <folding>
-            <element signature="e#2#36#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -612,7 +517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -620,9 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="87" selection-end-column="27" />
-          <folding>
-            <element signature="e#1#28#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -630,7 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3105">
           <caret line="120" column="28" lean-forward="false" selection-start-line="120" selection-start-column="8" selection-end-line="120" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -638,7 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -649,33 +548,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project01/corpus/wiki_words.txt">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/project01/corpus/wiki_words.txt" />
     <entry file="file://$PROJECT_DIR$/project01/news_content.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project01/wiki_words.txt">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="-306486">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/project01/wiki_words.txt" />
     <entry file="file://$PROJECT_DIR$/project01/creat_words.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -686,40 +571,149 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/News_Extraction/news_extraction.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/News_Extraction/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/News_Extraction/ltp_tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="213" column="27" lean-forward="false" selection-start-line="213" selection-start-column="19" selection-end-line="213" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/project01/reference_code/speech_extract.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="180" column="4" lean-forward="true" selection-start-line="180" selection-start-column="4" selection-end-line="180" selection-end-column="53" />
+        <state relative-caret-position="209">
+          <caret line="90" column="13" lean-forward="false" selection-start-line="90" selection-start-column="13" selection-end-line="90" selection-end-column="89" />
           <folding>
             <element signature="e#218#234#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/News_Extraction/news_extraction.csv">
+    <entry file="file://$PROJECT_DIR$/project01/corpus/build_vector_bywiki.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="189">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/News_Extraction/ltp_tool.py">
+    <entry file="file://$PROJECT_DIR$/project01/corpus/build_vector_by_news.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="124" column="20" lean-forward="false" selection-start-line="124" selection-start-column="8" selection-end-line="124" selection-end-column="20" />
+        <state relative-caret-position="526">
+          <caret line="64" column="21" lean-forward="false" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson11/news_cutted_words.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson11/oneword_oneline_words.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="3849">
+          <caret line="173100" column="1" lean-forward="true" selection-start-line="173100" selection-start-column="1" selection-end-line="173100" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson11/validated_index_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson11/stopwords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="78" column="4" lean-forward="false" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson11/trans_words_txt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson11/build_corpus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="58" column="20" lean-forward="false" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project01/new_model/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/News_Extraction/get_related_words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="34" />
           <folding>
-            <element signature="e#0#27#0" expanded="true" />
+            <element signature="e#2#36#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/News_Extraction/run.py">
+    <entry file="file://$PROJECT_DIR$/lesson11/build_word2vec.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="24" column="52" lean-forward="true" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+        <state relative-caret-position="-220">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson11/build_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="41" selection-end-column="26" />
           <folding>
-            <element signature="e#1#60#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson11/svm_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="109" column="0" lean-forward="true" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson11/LR_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="105" column="15" lean-forward="true" selection-start-line="105" selection-start-column="15" selection-end-line="105" selection-end-column="15" />
+          <folding>
+            <element signature="e#1#20#0" expanded="true" />
           </folding>
         </state>
       </provider>
